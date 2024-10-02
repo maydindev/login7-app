@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="relative flex flex-col justify-center items-center h-screen">
       <Image
-        src={"/backgroundImage.png"}
+        src="/backgroundImage.png"
         layout="fill"
         objectFit="cover"
         alt="Background image"
